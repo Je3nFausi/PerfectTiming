@@ -1,7 +1,7 @@
 .HomeHeader{
     background-color: rgb(135, 23, 23);
     text-align: center;
-    padding: 7px;
+    padding: 1px;
 }
 .HomeHeader h1{
     color: white;
@@ -44,13 +44,19 @@ nav a:hover{
     background-color: azure;
 }
 aside{
-    width: 150px;
+    width: 200px;
     float: left;
     padding: 10px;
 }
-section{
-    width: 150px;
+.Women{
+    width: 200px;
     float: left;
     padding: 10px;
 }
+.More{
+    width: 200px;
+    float: left;
+    padding: 10px;
+}
+
 

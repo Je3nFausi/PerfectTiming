@@ -58,5 +58,20 @@ aside{
     float: left;
     padding: 10px;
 }
+.Men{
+    width: 200px;
+    float: left;
+    padding: 10px;
+}
+.Watches{
+    width: 200px;
+    float: left;
+    padding: 10px; 
+}
+article{
+    width: 200px;
+    float: left;
+    padding: 10px;
+}
 
 

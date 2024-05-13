@@ -1,0 +1,45 @@
+.HomeHeader{
+    background-color: rgb(135, 23, 23);
+    text-align: center;
+    padding: 7px;
+}
+.HomeHeader h1{
+    color: white;
+    font-size: xx-large;
+    font-style: oblique;
+}
+,.HomeHeader h3{
+    font-style: italic;
+}
+.HomeBody{
+    background-image: url(images/cover\ page\ cropped.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    margin: 0;
+}
+nav{
+    background-color: black;
+    padding: 1rem;
+}
+nav ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+nav li{
+    display: inline-block;
+    margin-right: 1rem;
+}
+nav a{
+    color: aliceblue;
+}
+nav a:hover{
+    color: gray;
+}
+footer{
+    background-color:rgb(135, 23, 23 ;
+    padding: ;
+}
+

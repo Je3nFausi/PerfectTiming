@@ -73,3 +73,6 @@ article{
     float: left;
     padding: 10px;
 }
+@media screen and (max-width:500px){
+    aside,section,article
+}

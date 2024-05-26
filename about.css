@@ -1,0 +1,28 @@
+.Aboutheader{
+    background-color: rgb(114, 18, 18);
+    text-align: center;
+    padding: 1px;
+}
+.Aboutbody{
+    padding: 0px;
+    margin: 0px;
+}
+.Aboutbody nav{
+    background-color: black;
+    padding: 1rem;
+}
+.Aboutbody nav ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.Aboutbody nav li{
+    display: inline-block;
+    margin-right: 1rem;
+}
+.Aboutbody nav a{
+    color: aliceblue;
+}
+.Aboutbody nav a:hover{
+    color: gray;
+}

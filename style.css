@@ -1,5 +1,5 @@
 .HomeHeader{
-    background-color: rgb(65, 23, 23);
+    background-color: rgb(114, 18, 18);
     text-align: center;
     padding: 1px;
 }
@@ -38,6 +38,7 @@ nav a{
 nav a:hover{
     color: gray;
 }
+
 .ProductBody{
     margin: 0;
     padding: 0;

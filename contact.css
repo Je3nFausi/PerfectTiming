@@ -1,0 +1,32 @@
+.Contacthead{
+    background-color: rgb(114, 18, 18);
+    text-align: center;
+    padding: 1px;
+}
+
+.Contactmain nav{
+    background-color: black;
+    padding: 1rem;
+}
+.Contactmain nav ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.Contactmain nav li{
+    display: inline-block;
+    margin-right: 1rem;
+}
+.Contactmain nav a{
+    color: aliceblue;
+}
+.Contactmain nav a:hover{
+    color: gray;
+}
+
+.Contactbody{
+    margin: 0;
+    padding: 0;
+}
+
+

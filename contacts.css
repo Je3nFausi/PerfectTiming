@@ -1,0 +1,24 @@
+.container-fluid{
+    margin: 100px;
+    border: 10px solid rgb(114, 18, 18);
+    padding: 200px;
+}
+nav{
+    background-color: black;
+    padding: 1rem;
+}
+nav ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+nav li{
+    display: inline-block;
+    margin-right: 1rem;
+}
+nav a{
+    color: aliceblue;
+}
+nav a:hover{
+    color: gray;
+}

@@ -108,16 +108,16 @@
         <article class="Article">
             <h2>More Brands</h2>
             <ul>
-            <li><a href="https://www.bobswatches.com/">BOB'S WATCHES</a></li>
+            <li style="color: black;"><a href="https://www.bobswatches.com/">BOB'S WATCHES</a></li>
             <br>
             <br>
-            <li><a href="https://stockx.com/accessories/watches?utm_source=af&utm_medium=imp&utm_campaign=196318&impactSiteId=VOTyzexpTxyKRj5RVXz2tQq-UkHVklwwJ1OY000&clickid=VOTyzexpTxyKRj5RVXz2tQq-UkHVklwwJ1OY000&utm_term=VOTyzexpTxyKRj5RVXz2tQq-UkHVklwwJ1OY000&utm_content=_530344&irgwc=1&irclickid=VOTyzexpTxyKRj5RVXz2tQq-UkHVklwwJ1OY000&ir_campaignid=9060&ir_adid=530344&ir_partnerid=196318">StockX</a></li>
+            <li style="color: black;"><a href="https://stockx.com/accessories/watches?utm_source=af&utm_medium=imp&utm_campaign=196318&impactSiteId=VOTyzexpTxyKRj5RVXz2tQq-UkHVklwwJ1OY000&clickid=VOTyzexpTxyKRj5RVXz2tQq-UkHVklwwJ1OY000&utm_term=VOTyzexpTxyKRj5RVXz2tQq-UkHVklwwJ1OY000&utm_content=_530344&irgwc=1&irclickid=VOTyzexpTxyKRj5RVXz2tQq-UkHVklwwJ1OY000&ir_campaignid=9060&ir_adid=530344&ir_partnerid=196318">StockX</a></li>
             <br>
             <br>
-            <li><a href="https://www.jomashop.com/">Jomashop</a></li>
+            <li style="color: black;"><a href="https://www.jomashop.com/">Jomashop</a></li>
             <br>
             <br>
-            <li><a href="https://www.casio.com/intl/watches/">CASIO</a></li>
+            <li style="color: black;"><a href="https://www.casio.com/intl/watches/">CASIO</a></li>
             </ul>
         </article>
     </main>

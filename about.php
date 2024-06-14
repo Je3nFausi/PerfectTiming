@@ -11,19 +11,10 @@
         <h1>Get To Know Perfect Timing</h1>
     </header>
 
-    <nav>
-        <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="product.html">Products</a></li>
-            <li><a href="purchase.html">Buy</a></li>
-            <li><a href="blog.html">Blog</a></li>
-            <li><a href="about.html">About Us</a></li>
-            <li><a href="contact.html">Contact Us</a></li>
-        </ul>
+   <?php include_once("template/nav.php");?>
 
-    </nav>
     
-    <p style="margin-right: 150px; margin-left: 150px;">
+    <p style="margin-right: 150px; margin-left: 150px; color: aliceblue;">
        <br><br> At Perfect Timing, we believe a watch is more than just a timepiece. It's a statement. A reflection of your style. A trusted companion on your life's journey. That's why we're dedicated to creating exceptional watches that are as beautiful as they are functional.
 <br>
 <br><b>Our Story</b>
@@ -50,6 +41,6 @@
 <br>
 <br><i>Explore our collections today and discover the watch that reflects your unique style.</i>
 </p>
-
+     
 </body>
 </html>

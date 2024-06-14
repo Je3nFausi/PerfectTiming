@@ -8,16 +8,7 @@
 </head>
 <body class="ProductBody">
     <!--Navigation bar-->
-    <nav>
-        <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="product.html">Products</a></li>
-            <li><a href="purchase.html">Buy</a></li>
-            <li><a href="blog.html">Blog</a></li>
-            <li><a href="about.html">About Us</a></li>
-            <li><a href="contact.html">Contact Us</a></li>
-        </ul>
-    </nav>
+    <?php include_once("template/nav.php");?>
    
     <main>
          <!--aside bar-->

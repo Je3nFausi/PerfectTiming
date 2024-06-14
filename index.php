@@ -6,6 +6,7 @@
     <title>PerfectTiming</title>
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body class="HomeBody">
     <!--Header-->
     <header class="HomeHeader">
@@ -14,18 +15,6 @@
         <h3><em>"Time and Greatness"</em></h3>
     </header>
     <!--Navigation bar-->
-    <nav>
-        <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="product.html">Products</a></li>
-            <li><a href="purchase.html">Buy</a></li>
-            <li><a href="blog.html">Blog</a></li>
-            <li><a href="about.html">About Us</a></li>
-            <li><a href="contact.html">Contact Us</a></li>
-        </ul>
-
-    </nav>
-    
-    
+    <?php include_once("template/nav.php");?>
 </body>
 </html>

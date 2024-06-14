@@ -8,16 +8,8 @@
 </head>
 <body style="background-color: rgb(114, 18, 18);">
     <!--Navigation bar-->
-    <nav>
-        <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="product.html">Products</a></li>
-            <li><a href="purchase.html">Buy</a></li>
-            <li><a href="blog.html">Blog</a></li>
-            <li><a href="about.html">About Us</a></li>
-            <li><a href="contact.html">Contact Us</a></li>
-        </ul>
-    </nav>
+    <?php include_once("template/nav.php");?>
+    
 <br>
 <br>
 <!--Product that can be purchased-->

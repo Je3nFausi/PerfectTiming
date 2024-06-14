@@ -11,15 +11,8 @@
         
       </head>
       <body>
-        <nav>
-            <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="product.html">Products</a></li>
-                <li><a href="purchase.html">Buy</a></li>
-                <li><a href="blog.html">Blog</a></li>
-                <li><a href="about.html">About Us</a></li>
-                <li><a href="contact.html">Contact Us</a></li>
-            </ul>
+        
+      <?php include_once("template/nav.php");?>
     
         </nav>
         <h1 style="text-align: center; margin-top: 50px; color: rgb(114, 18, 18);">GET FIRST HAND INFO!</h1>

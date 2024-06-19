@@ -13,6 +13,7 @@
       <body>
         
       <?php include_once("template/nav.php");?>
+      <?php require_once("includes/dbconnect.php");?>
     
         </nav>
         <h1 style="text-align: center; margin-top: 50px; color: rgb(114, 18, 18);">GET FIRST HAND INFO!</h1>
